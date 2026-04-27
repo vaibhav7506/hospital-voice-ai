@@ -1,0 +1,6 @@
+﻿node_modules/
+.env
+backend/data/contacts.json
+backend/data/calls.json
+dist/
+.DS_Store
